@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fedjio Raymond</h1>
-<h3 align="center">Full Stack Developer (React js, React native, Express, Nest js, Next js, python, NLP/NLU guru and Junior ML Engineer. Lead Engineer at @AppsTechLab and backend developer at @EjaraApp</h3>
+<h3 align="center">Full Stack Developer (React js, React native, Express, Nest js, Next js, python, NLP/NLU guru and Junior ML Engineer. Lead Engineer at @AppsTechLab and data analyst at @EjaraApp</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-music&label=Profile%20views&color=0e75b6&style=flat" alt="real-music" /> </p>
 
