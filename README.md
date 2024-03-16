@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fedjio Raymond</h1>
 
-Full Stack Developer (React js, React native, Express, Nest js, Next js, python, NLP/NLU guru and Junior ML Engineer. Lead Engineer at [AppsTech](https://appstech.com/) and data analyst at [Ejara](https://www.ejara.io/)
+<h2>SKILLS</h2>
+Frontend - Javascript, HTML, CSS, React.js, Next.js <br/>
+Backend - Node.js, Nest.js, Express.js, Sails.js,  Python, FastApi, Flask <br/>
+Database - MongoDB, MySQL, SQL, Posgresql, DynamoDB, Snowflake <br/>
+ORM - SQLAlchemy, Prisma, Sequelize <br/>
+Data Pipeline - Apache Airflow <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-music&label=Profile%20views&color=0e75b6&style=flat" alt="real-music" /> </p>
 
