@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Fedjio Raymond</h1>
 
 <h2>SKILLS</h2>
-Frontend - Javascript, HTML, CSS, React.js, Next.js <br/>
-Backend - Node.js, Nest.js, Express.js, Sails.js,  Python, FastApi, Flask <br/>
-Database - MongoDB, MySQL, SQL, Posgresql, DynamoDB, Snowflake <br/>
-ORM - SQLAlchemy, Prisma, Sequelize <br/>
-Data Pipeline - Apache Airflow <br/>
+<b>Frontend</b> - Javascript, HTML, CSS, React.js, Next.js <br/>
+<b>Backend</b> - Node.js, Nest.js, Express.js, Sails.js,  Python, FastApi, Flask <br/>
+<b>Database</b> - MongoDB, MySQL, SQL, Posgresql, DynamoDB, Snowflake <br/>
+<b>ORM</b> - SQLAlchemy, Prisma, Sequelize <br/>
+<b>Data Pipeline</b> - Apache Airflow <br/>
+
+<h2>EXPERIENCE</h2>
+<b><i>Backend Developer / Data Analyst</i></b> <br/>
+<b>Ejara</b> - Douala, Cameroon <b>(04/2021 - Current)</b> <br/>
+<b>Skills:</b> - Sails.js, Nest.js, React.js, Airflow, FastApi, Meta base, Tableau, Amplitude, Snowflake, Postgresql <br/>
+<p></p>
+<p></p>
+<b><i>Lead Software Engineer</b> <br/>
+<b>AppsTechLabs</b> - Douala, Cameroon <b>(11/2019 - 05/2021)</b> <br/>
+<b>Skills:</b> - Nest.js, React.js, FastApi, ML, DNN, NLP, Blade, Web Socket, Spacy, Websocket <br/>
+<h2></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-music&label=Profile%20views&color=0e75b6&style=flat" alt="real-music" /> </p>
 
